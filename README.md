@@ -1,2 +1,2 @@
 # DJANGO-CRM-APPLICATION
-Django CRM Application with Msql database.
+Django CRM Web Application with Msql database.
